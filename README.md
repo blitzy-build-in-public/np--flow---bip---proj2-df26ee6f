@@ -1,2 +1,4 @@
-# np--flow---bip---proj2-df26ee6f
-Created by Blitzy
+# Welcome to Blitzy
+
+Prints `Welcome to Blitzy` to standard output.
+Run: `node index.js` — no dependencies, nothing to install.
